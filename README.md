@@ -1,2 +1,6 @@
-# ISLR
-ISLR 공부 노트
+ISLR  
+====
+ISLR note
+---------
+
+
